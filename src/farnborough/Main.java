@@ -3,7 +3,7 @@ package farnborough;
 public class Main {
 
     public static void main(String[] args) {
-	    System.out.println("Hello (funky) cloud!");
+	    System.out.println("Hello (funky dory) cloud!");
 
     }
 }
